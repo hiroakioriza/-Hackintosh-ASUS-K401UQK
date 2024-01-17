@@ -24,7 +24,6 @@
 <p>4. Keyboard (Without FN Brightness)</p>
 
 # Known Issues
-
 <p>1. Touchpad Gestures (Because I don't know how to patch it)</p>
 <p>2. FN Brightness</p>
 <p>3. Bluetooth (Not Supported by my Cards, u can changes it with ur own Cards)</p>
