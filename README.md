@@ -19,12 +19,12 @@
 
 # Working Well And Tested
 <p>1. Wifi</p>
-<p>2. Speaker</p>
-<p>3. Touchpad (Non Gesture)</p>
-<p>4. Keyboard (Without FN Brightness)</p>
+<p>2. Bluetooth</p>
+<p>3. Speaker</p>
+<p>4. Touchpad (Non Gesture)</p>
+<p>5. Keyboard (Without FN Brightness)</p>
 
 # Known Issues
 <p>1. Touchpad Gestures (Because I don't know how to patch it)</p>
 <p>2. FN Brightness</p>
-<p>3. Bluetooth (Not Supported by my Cards, u can changes it with ur own Cards)</p>
-<p>4. Battery NON TESTED</p>
+<p>3. Battery NON TESTED</p>
