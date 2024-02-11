@@ -7,7 +7,6 @@
 
 
 # Detailed Specification (MY OWN)
-
 <p>1. Processor : i7-7500u kaby lake</p>
 <p>2. GPU : Intel HD 620</p>
 <p>3. dGPU : Nvidia 940MX <b>(Disabled)</b></p>
@@ -27,3 +26,14 @@
 # Known Issues
 <p>1. FN Brightness</p>
 <p>2. Battery NON TESTED</p>
+
+
+# GEEKBENCH 6 SCORES CPU 
+<div align="Center">
+  <img src="https://github.com/hiroakioriza/-Hackintosh-ASUS-K401UQK/blob/main/Screenshot%202024-02-11%20at%2009.57.03.png?raw=true">
+</div>
+
+# GEEKBENCH 6 SCORES GPU
+<div align="Center">
+  <img src="https://github.com/hiroakioriza/-Hackintosh-ASUS-K401UQK/blob/main/Screenshot%202024-02-11%20at%2010.02.03.png?raw=true">
+</div>
