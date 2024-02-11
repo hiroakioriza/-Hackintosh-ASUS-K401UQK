@@ -21,10 +21,9 @@
 <p>1. Wifi</p>
 <p>2. Bluetooth</p>
 <p>3. Speaker</p>
-<p>4. Touchpad (Non Gesture)</p>
+<p>4. Touchpad With Gestures (Sometimes not working, Need to Reboot)</p>
 <p>5. Keyboard (Without FN Brightness)</p>
 
 # Known Issues
-<p>1. Touchpad Gestures (Because I don't know how to patch it)</p>
-<p>2. FN Brightness</p>
-<p>3. Battery NON TESTED</p>
+<p>1. FN Brightness</p>
+<p>2. Battery NON TESTED</p>
