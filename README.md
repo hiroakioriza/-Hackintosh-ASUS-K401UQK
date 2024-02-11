@@ -2,7 +2,7 @@
 
 <div align="Center">
   <img src="https://i.imgur.com/ld7ChLZ.png">
-  <img src="https://github.com/hiroakioriza/-Hackintosh-ASUS-K401UQK/blob/main/Screenshot%202024-01-18%20at%2004.05.22.png?raw=true">
+  <img src="https://github.com/hiroakioriza/-Hackintosh-ASUS-K401UQK/blob/main/Screenshot%202024-02-11%20at%2009.39.29.png?raw=true">
 </div>
 
 
