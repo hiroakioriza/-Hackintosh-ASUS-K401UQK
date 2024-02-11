@@ -8,14 +8,15 @@
 
 # Detailed Specification (MY OWN)
 <p>1. Processor : i7-7500u kaby lake</p>
-<p>2. RAM : 24GB (8GB ONBOARD + 16GB KINGSTON)
+<p>2. RAM : 24GB (8GB ONBOARD + 16GB KINGSTON)</p>
 <p>3. GPU : Intel HD 620</p>
 <p>4. dGPU : Nvidia 940MX <b>(Disabled)</b></p>
-<p>5. Touchpad & Keyboard : I2C</p>
-<p>6. Speaker : VEN_14F1&DEV_1F72</p>
-<p>7. Wireless : Intel AC 8260</p>
-<p>8. Wired : RTL8168</p>
-<p>9. Battery : <b>NON BATTERY<b></b>
+<p>5. Display : 1080p (FULL HD IPS)
+<p>6. Touchpad & Keyboard : I2C</p>
+<p>7. Speaker : VEN_14F1&DEV_1F72</p>
+<p>8. Wireless : Intel AC 8260</p>
+<p>9. Wired : RTL8168</p>
+<p>10. Battery : <b>NON BATTERY<b></b>
 
 # Working Well And Tested
 <p>1. Wifi</p>
